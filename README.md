@@ -5,7 +5,7 @@
 
 # submoduler
 
-A simple, robust command-line tool for updating Git submodules with ease.
+A simple, zero-dep robust command-line tool for updating Git submodules with ease.
 
 `submoduler` is a smart utility that handles the common pain points of managing Git submodules. It ensures your submodules are initialized, fetches the latest changes, and updates them either to their latest tracked commit or to a specific commit, tag, or branch you define.
 
